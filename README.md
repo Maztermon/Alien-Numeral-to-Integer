@@ -45,4 +45,4 @@ Explanation: R = 1000, CR = 900, ZC = 90 and AB = 4.
 
 
 ## RUN Code Node.JS
-$ Node Test.js
+$ node Test.js
