@@ -1,7 +1,7 @@
 ﻿# Alien-Numeral-to-Integer
 
 Test
-Symbol Value //
+Symbol Value
 A 1
 B 5
 Z 10
@@ -10,7 +10,7 @@ C 100
 D 500
 R 1000
 
-/b
+
 For example, 2 is written as AA in Alien numeral, just two ones added together. 12 is
 written as ZAA, which is simply Z +
 AA. The number 27 is written as ZZBAA, which is ZZ + B + AA.
